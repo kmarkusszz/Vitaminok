@@ -1,63 +1,26 @@
 body {
     background-color: yellowgreen;
-  }
-
-  p {
-    font-family: verdana;
-    font-size: 50px;
-    text-align: center;
-    text-shadow: 5cap;
+    font-family:sans-serif;
   }
 
   h1 {
-    color: red;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: brown;
+
+    outline-style: solid;
+    outline-color: lightcoral;
+    outline-width: 5px;
+    border-radius: 15px;
+    outline-offset: 1px;
   }
 
-  h2 {
-    color: orangered;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
-  }
-  h3 {
-    color: yellow;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
+  p1, p3, p5{
+    font-size: 30px;
   }
 
-  h4 {
-    color: green;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
-  }
-  h5 {
-    color: blue;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
+  p2, p4 {
+    font-size: 23px;
   }
 
-  h6 {
-    color: blueviolet;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
-  }
-  h7 {
-    color: pink;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
-  }
-
-  h8 {
-    color: white;
-    text-align: left;
-    font-family: Arial;
-    font-size: 20px;
-  }
