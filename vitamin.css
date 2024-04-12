@@ -1,0 +1,63 @@
+body {
+    background-color: yellowgreen;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 5cap;
+  }
+
+  h1 {
+    color: red;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+
+  h2 {
+    color: orangered;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+  h3 {
+    color: yellow;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+
+  h4 {
+    color: green;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+  h5 {
+    color: blue;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+
+  h6 {
+    color: blueviolet;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+  h7 {
+    color: pink;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
+
+  h8 {
+    color: white;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+  }
