@@ -1,9 +1,10 @@
 body {
-    background-color: yellowgreen;
     font-family:sans-serif;
+    background-image: url("kep.jpg");
+    background-size: cover;
   }
 
-  h1 {
+h1 {
     text-align: center;
     text-decoration: underline;
     font-family: sans-serif;
@@ -16,11 +17,17 @@ body {
     outline-offset: 1px;
   }
 
-  p1, p3, p5{
-    font-size: 30px;
-  }
+p {
+  text-align: center;
+  font-size: 40px;
 
-  p2, p4 {
-    font-size: 23px;
-  }
+  outline-style: solid;
+  padding: 30px;
+  background-color: white;
+  width: 900px;
+}
+.kep{
+  float: right;
+  width: 900px;
 
+}
