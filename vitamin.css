@@ -2,6 +2,11 @@ body {
     font-family:sans-serif;
     background-image: url("kep.jpg");
     background-size: cover;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
 
 h1 {
@@ -24,7 +29,9 @@ p {
   outline-style: solid;
   padding: 30px;
   background-color: white;
+  border-radius: 30px;
   width: 900px;
+  transform: translateX(15%);
 }
 .kep{
   float: right;
